@@ -9,5 +9,9 @@ To run:
 npm run dev 
 and then make postman api call to : http://localhost:3000/items 
 
+To run mongoDB script:
+npm run getListOfdbs
+
+
 
 
